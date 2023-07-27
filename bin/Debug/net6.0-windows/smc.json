@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "Produit 1",
+        "prix": 9.99,
+        "categories": "Catégorie 1",
+        "stock": 10,
+		"note":"Ceci est une description de ce produit"
+    },
+    {
+        "id": 2,
+        "name": "Produit 2",
+        "prix": 19.99,
+        "categories": "Catégorie 2",
+        "stock": 5,
+		"note":"Ceci est une description de ce produit"
+    },
+	{
+        "id": 3,
+        "name": "Produit 1",
+        "prix": 9.99,
+        "categories": "Catégorie 1",
+        "stock": 10,
+		"note":"Ceci est une description de ce produit"
+    },
+    {
+        "id": 4,
+        "name": "Produit 2",
+        "prix": 19.99,
+        "categories": "Catégorie 2",
+        "stock": 5,
+		"note":"Ceci est une description de ce produit"
+    },
+	{
+        "id": 5,
+        "name": "Produit 1",
+        "prix": 9.99,
+        "categories": "Catégorie 1",
+        "stock": 10,
+		"note":"Ceci est une description de ce produit"
+    },
+    {
+        "id": 6,
+        "name": "Produit 2",
+        "prix": 19.99,
+        "categories": "Catégorie 2",
+        "stock": 5,
+		"note":"Ceci est une description de ce produit"
+    },
+	{
+        "id": 7,
+        "name": "Produit 1",
+        "prix": 9.99,
+        "categories": "Catégorie 1",
+        "stock": 10,
+		"note":"Ceci est une description de ce produit"
+    },
+    {
+        "id": 8,
+        "name": "Produit 2",
+        "prix": 19.99,
+        "categories": "Catégorie 2",
+        "stock": 5,
+		"note":"Ceci est une description de ce produit"
+    },
+	{
+        "id": 9,
+        "name": "Produit 1",
+        "prix": 9.99,
+        "categories": "Catégorie 1",
+        "stock": 10,
+		"note":"Ceci est une description de ce produit"
+    },
+    {
+        "id": 10,
+        "name": "Produit 2",
+        "prix": 19.99,
+        "categories": "Catégorie 2",
+        "stock": 5,
+		"note":"Ceci est une description de ce produit"
+    },
+	{
+        "id": 11,
+        "name": "Produit 1",
+        "prix": 9.99,
+        "categories": "Catégorie 1",
+        "stock": 10,
+		"note":"Ceci est une description de ce produit"
+    },
+    {
+        "id": 12,
+        "name": "Produit 2",
+        "prix": 19.99,
+        "categories": "Catégorie 2",
+        "stock": 5,
+		"note":"Ceci est une description de ce produit"
+    },
+]

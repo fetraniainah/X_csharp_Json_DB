@@ -1,0 +1,12 @@
+[
+{
+	"id":1,
+	"nomClient":"Fetra",
+	"telephone":"0346578765",
+	"Adresse":"Andoaranofotsy",
+	"idProduit":2,
+	"categoryProduit":"Smartphone",
+	"quantite":5,
+	"prixTotal":100000
+}
+]
